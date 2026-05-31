@@ -19,7 +19,7 @@ function JsonTree() {
           Invalid JSON
         </h2>
 
-        <p className="pt-2 text-sm text-zinc-400">
+        <p className="pt-2 pb-2 text-sm text-zinc-400">
           Fix syntax errors in the editor to preview
           the JSON structure.
         </p>

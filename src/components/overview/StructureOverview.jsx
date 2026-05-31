@@ -152,7 +152,7 @@ function StructureOverview() {
       <button
         type="button"
         onClick={openCommandPalette}
-        className={`mt-4 inline-flex h-9 w-full cursor-pointer items-center rounded-lg border border-zinc-800 bg-zinc-900/70 px-3 text-sm text-zinc-300 transition hover:border-indigo-500/40 hover:bg-zinc-900 hover:text-zinc-100 ${
+        className={` inline-flex h-9 w-full cursor-pointer items-center rounded-lg border border-zinc-800 bg-zinc-900/70 px-3 text-sm text-zinc-300 transition hover:border-indigo-500/40 hover:bg-zinc-900 hover:text-zinc-100 ${
           isOpen ? 'justify-between' : 'justify-center'
         }`}
       >
